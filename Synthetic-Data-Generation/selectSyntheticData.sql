@@ -1,0 +1,17 @@
+use soccerLeague2014;
+SELECT * FROM Club;
+SELECT * FROM LeaguePlayer;
+SELECT * FROM Manager;
+SELECT * FROM Referee;
+SELECT * FROM Seasons;
+SELECT * FROM Squad;
+SELECT * FROM SquadManager;
+SELECT * FROM SquadPlayers;
+SELECT * FROM Fixtures;
+SELECT * FROM LineUp;
+SELECT * FROM Substitute;
+SELECT * FROM Goals;
+SELECT * FROM Fouls;
+SELECT * FROM PlayerMatchStats;
+SELECT * FROM TeamMatchStats;
+SELECT * FROM Standings;
